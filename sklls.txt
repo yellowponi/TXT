@@ -1,0 +1,9 @@
+Навыки полученные после курса:
+1.Postman,
+2.Jmeter,
+3.Android studio,
+4.Charles,
+5.GitBash,
+6.GitHub,
+7.Python,
+8.Java;
